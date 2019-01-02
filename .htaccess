@@ -1,0 +1,5 @@
+ServerSignature Off
+
+AddDefaultCharset UTF-8
+ErrorDocument 400 /error.php
+ErrorDocument 404 /error.php
